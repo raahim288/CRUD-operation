@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "John Cenaasas",
+      "username": "john_cenasas",
+      "email": "johnCena@gmail.comasasas",
+      "phone": "92-0958-5123-51sas",
+      "id": 11
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "burce_12",
+      "email": "Bruce@gmail.com",
+      "phone": "75-850-960-026",
+      "id": 10
+    },
+    {
+      "name": "John Cena",
+      "username": "john_cena",
+      "email": "johnCena@gmail.com",
+      "phone": "92-0958-5123-51",
+      "id": 11
+    },
+    {
+      "name": "Abdul Raahim",
+      "username": "raahimchotu",
+      "email": "raahimabdul30@gmail.com",
+      "phone": "03132236545",
+      "id": 13
+    },
+    {
+      "name": "Abdul Raahim",
+      "username": "raahimchotu",
+      "email": "raahimabdul30@gmail.com",
+      "phone": "03132236545",
+      "id": 14
+    },
+    {
+      "name": "haris tayyab",
+      "username": "bhaihari",
+      "email": "haris@gmail.com",
+      "phone": "09898876567",
+      "id": 16
+    }
+  ]
+}
